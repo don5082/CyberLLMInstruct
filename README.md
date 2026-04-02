@@ -63,7 +63,7 @@ The following large language models have been fine-tuned on the CyberLLMInstruct
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/anonymised/CyberLLMInstruct.git
+git clone https://github.com/don5082/CyberLLMInstruct.git
 cd CyberLLMInstruct
 ```
 
